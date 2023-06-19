@@ -2,6 +2,9 @@
 title:Cayde-42 WEAPONS
 description:GOD Rolls to look for
 
+// The Immortal Test
+dimwishlist:item=4039572196&perks=202670084,1885400500,2846385770,365154968
+
 // Combined Action PVP
 dimwishlist:item=1331824604&perks=1467527085,3142289711,2946784966,3673922083
 #notes:PVP 2-tap with Adagio 
