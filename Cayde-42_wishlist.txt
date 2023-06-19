@@ -1,0 +1,16 @@
+
+title:Cayde-42 WEAPONS
+description:GOD Rolls to look for
+
+// Combined Action PVP
+dimwishlist:item=1331824604&perks=1467527085,3142289711,2946784966,3673922083
+#notes:PVP 2-tap with Adagio 
+
+// Matador PVP
+dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
+
+// Lingering Dread PVE Blinding
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579
+
+// Ignition Code PVE Blinding
+dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,960810156
