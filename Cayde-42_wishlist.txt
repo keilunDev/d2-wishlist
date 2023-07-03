@@ -53,10 +53,11 @@ dimwishlist:item=1125217994&perks=3525010810,2822142346,1556840489,3324494224,39
 
 // Pure Poetry PVP
 dimwishlist:item=2671639706&perks=3250034553,1885400500,744594675,47981717
+//tags:god-pvp
 
 // Harsh Language
 dimwishlist:item=1606497639&perks=3525010810,2822142346,4071163871,776531651,2120661319
-#notes: Gyrfalcon Roll
+//notes: Gyrfalcon Roll|tags:god-pve
 
 // Exalted Truth PVP
 dimwishlist:item=548809020&perks=3250034553,3142289711,2846385770,699525795,2988596335
