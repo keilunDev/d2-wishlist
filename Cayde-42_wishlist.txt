@@ -97,3 +97,7 @@ dimwishlist:item=2563012876&perks=1300023272,3142289711,4071163871,47981717
 // Cataclysmic PVE
 dimwishlist:item=999767358&perks=1840239774,1687452232,1354429876,3078487919,3363267119
 //notes:non-crafted god roll|tags:god-pve
+
+// FRACTETHYST PVP
+//tags:god-pvp
+dimwishlist:item=3184681056&perks=1300023272,3142289711,706527188,47981717
