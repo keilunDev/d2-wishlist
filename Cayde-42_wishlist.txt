@@ -121,3 +121,7 @@ dimwishlist:item=2481758391&perks=1840239774,1885400500,3161816588,3425386926
 // Spare Rations PVP
 //tags:god-pvp
 dimwishlist:item=3236112986&perks=1482024992,1885400500,3161816588,47981717
+
+// One Small Step PVE
+/tags:melee-build
+dimwishlist:item=1016668089&perks=3161816588,2679249093
