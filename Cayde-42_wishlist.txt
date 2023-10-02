@@ -2,10 +2,10 @@
 title:Cayde-42 WEAPONS
 description:GOD Rolls to look for
 
-// The Immortal Test
+// The Immortal
 //notes: Cayde-42 WEAPONS: Best SMG in kinetic slot|tags:god-pvp
 dimwishlist:item=4039572196&perks=202670084,1885400500,2846385770,365154968
-
+dimwishlist:item=4039572196&perks=3250034553,1885400500,3619207468,365154968
 
 // Matador PVP|tags:god-pvp
 dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
